@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeannieboisvert
-- 👀 I’m interested in learning more about being a developer!
-- 🌱 I’m currently learning Bootstrap (and GitHub tbh)
+- 👀 I’m interested in learning more about being a programmer!
+- 🌱 I’m currently learning Bootstrap, Javascript, and using Git effectively!
 - 💞️ I’m looking to collaborate on cool projects for a beginner!
 - 📫 How to reach me... jeannieboisvert2@gmail.com
 
